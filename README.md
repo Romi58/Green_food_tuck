@@ -14,7 +14,7 @@ This is a modern, eco-friendly food truck website built using **TypeScript, Next
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-truck-green.git
+   git clone https://github.com/Romi58/Green_food_tuck.git
    cd food-truck-green
    ```
 

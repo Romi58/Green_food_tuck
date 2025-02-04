@@ -1,6 +1,6 @@
 # Food Truck Green Website
 
-This is a modern, eco-friendly food truck website built using **TypeScript, Next.js, Tailwind CSS, ShadCN UI, and dynamic routing**. The website provides an interactive and visually appealing platform for food truck businesses.
+This is a modern, eco-friendly food truck website built using **TypeScript, Next.js, Custom CSS, ShadCN UI, and dynamic routing**. The website provides an interactive and visually appealing platform for food truck businesses.
 
 ## Features
 

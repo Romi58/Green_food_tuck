@@ -148,7 +148,7 @@ function Checkout() {
       <Head>
         <title>CheckOut page</title>
       </Head>
-      <div className="bg-gradient-to-r from-green-400 to-blue-500 h-[200px] text-white flex flex-col items-center justify-center">
+      <div style={{backgroundImage:'url("/unsplash_4ycv3Ky1ZZU.png")',backgroundSize:'cover',backgroundRepeat:'no-repeat'}} className="h-[200px] text-white flex flex-col items-center justify-center" >
         <h1 className="text-4xl font-bold mb-2">Checkout</h1>
         <p className="text-lg">Complete your purchase</p>
       </div>
